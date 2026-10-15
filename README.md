@@ -51,28 +51,7 @@ const vaishnavi = {
 
 ---
 
-## 🚀 Featured Projects
 
-### 🍽️ Uma Caterers
-
-A catering business website with menu, gallery and contact features — built and deployed on Vercel.
-
-[![Uma Caterers Repository](https://github-readme-stats.vercel.app/api/pin/?username=vaishnavi-220707&repo=uma-caterers&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/vaishnavi-220707/uma-caterers)
-
-| Layer | Technology |
-|---|---|
-| Structure | HTML5 |
-| Styling | CSS3 |
-| Logic | JavaScript, Python |
-| Hosting | Vercel |
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-uma--caterers.vercel.app-7dd3fc?style=for-the-badge)](https://uma-caterers.vercel.app/)
-
-[![Source Code](https://img.shields.io/badge/%F0%9F%92%BB%20Source%20Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavi-220707/uma-caterers)
-
----
 
 ## 🛠️ Tech Stack
 
