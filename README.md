@@ -32,13 +32,8 @@ const vaishnavi = {
     frontend: ["HTML5", "CSS3", "JavaScript"],
     tools: ["Git", "GitHub", "VS Code", "Vercel"]
   },
-  launchedProjects: [
-    {
-      name: "Uma Caterers",
-      description: "A catering business website with menu, gallery and contact features",
-      live: "https://uma-caterers.vercel.app/"
-    }
-  ],
+}
+  ]
   certifications: ["Currently Levelling Up 📚"],
   status: "🟢 Open to exciting opportunities",
   openTo: [
