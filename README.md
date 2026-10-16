@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Vaishnavi%20Isrannavar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%" alt="Vaishnavi Isrannavar profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:0b1f5c,100:06122e&height=220&section=header&text=Vaishnavi%20Isrannavar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%" alt="Vaishnavi Isrannavar profile header"/>
 
 <br/>
 
@@ -51,8 +51,6 @@ const vaishnavi = {
 
 ---
 
-
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -69,9 +67,9 @@ const vaishnavi = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-220707&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=cdd6f4&icon_color=7dd3fc&hide_border=false&count_private=true" height="180" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-220707&show_icons=true&theme=nord&border_color=1e40af&title_color=7dd3fc&text_color=cdd6f4&icon_color=7dd3fc&hide_border=false&count_private=true" height="180" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-220707&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=cdd6f4&hide_border=false" height="180" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-220707&layout=compact&theme=nord&border_color=1e40af&title_color=7dd3fc&text_color=cdd6f4&hide_border=false" height="180" alt="Most used programming languages"/>
 
 </div>
 
@@ -81,7 +79,7 @@ const vaishnavi = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavi-220707&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavi-220707&theme=nord&border=1e40af&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc)](https://git.io/streak-stats)
 
 </div>
 
@@ -101,7 +99,7 @@ const vaishnavi = {
 
 <div align="center">
 
-[![Vaishnavi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-220707&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vaishnavi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-220707&bg_color=06122e&color=7dd3fc&line=3b82f6&point=ffffff&area=true&area_color=1e40af&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -111,11 +109,11 @@ const vaishnavi = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Isrannavar-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-isrannavar22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Isrannavar-1e40af?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-isrannavar22)
 
-[![GitHub](https://img.shields.io/badge/GitHub-vaishnavi--220707-7dd3fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavi-220707)
+[![GitHub](https://img.shields.io/badge/GitHub-vaishnavi--220707-1e40af?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavi-220707)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Uma%20Caterers-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white)](https://uma-caterers.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Uma%20Caterers-1e40af?style=for-the-badge&logo=vercel&logoColor=white)](https://uma-caterers.vercel.app/)
 
 </div>
 
@@ -123,7 +121,7 @@ const vaishnavi = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=130&section=footer&fontColor=ffffff&fontSize=16&text=Thanks%20for%20visiting!%20%E2%AD%90&fontAlignY=65&animation=twinkling" width="100%" alt="Thanks for visiting"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:0b1f5c,100:06122e&height=130&section=footer&fontColor=ffffff&fontSize=16&text=Thanks%20for%20visiting!%20%E2%AD%90&fontAlignY=65&animation=twinkling" width="100%" alt="Thanks for visiting"/>
 
 *Made with ❤️ by [vaishnavi-220707](https://github.com/vaishnavi-220707)*
 
