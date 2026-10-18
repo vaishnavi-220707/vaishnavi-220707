@@ -28,7 +28,7 @@ const vaishnavi = {
     "Open Source Contributor"
   ],
   stack: {
-    languages: ["Python", "JavaScript", "C"],
+    languages: ["Python","C","JavaScript", "C"],
     frontend: ["HTML5", "CSS3", "JavaScript"],
     tools: ["Git", "GitHub", "VS Code", "Vercel"]
   },
