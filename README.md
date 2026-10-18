@@ -108,7 +108,6 @@ const vaishnavi = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-vaishnavi--220707-1e40af?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavi-220707)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Uma%20Caterers-1e40af?style=for-the-badge&logo=vercel&logoColor=white)](https://uma-caterers.vercel.app/)
 
 </div>
 
